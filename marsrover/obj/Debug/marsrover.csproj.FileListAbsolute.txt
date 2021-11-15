@@ -1,0 +1,6 @@
+/Users/sarahfraser/Projects/marsrover/marsrover/bin/Debug/marsrover.exe
+/Users/sarahfraser/Projects/marsrover/marsrover/bin/Debug/marsrover.pdb
+/Users/sarahfraser/Projects/marsrover/marsrover/obj/Debug/marsrover.csproj.AssemblyReference.cache
+/Users/sarahfraser/Projects/marsrover/marsrover/obj/Debug/marsrover.csproj.CoreCompileInputs.cache
+/Users/sarahfraser/Projects/marsrover/marsrover/obj/Debug/marsrover.exe
+/Users/sarahfraser/Projects/marsrover/marsrover/obj/Debug/marsrover.pdb
